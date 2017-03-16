@@ -2,4 +2,8 @@ what are you doing ?
 
 i’m having class!
 
+<<<<<<< HEAD
 提交回滚
+=======
+this is the second branch.!
+>>>>>>> second-brach
