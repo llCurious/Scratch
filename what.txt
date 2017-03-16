@@ -1,5 +1,6 @@
 what are you doing ?
 
+<<<<<<< HEAD
 i’m having class!
 
 <<<<<<< HEAD
@@ -7,3 +8,6 @@ i’m having class!
 =======
 this is the second branch.!
 >>>>>>> second-brach
+=======
+i’m having class!
+>>>>>>> parent of 9833015... second branch test
